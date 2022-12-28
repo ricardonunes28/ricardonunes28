@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Ricardo Nunes 👋
 
-- 🌱 Estudando: JavaScript, Typescript , node.js e Angular
+- 🌱 Estudando: JavaScript, Typescript , node.js, nest.js
 - 📫 contate-me no email: ricardonascimentosp138@gmail.com
 😎
 
